@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "dense": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/Users/lixiang/opt/anaconda3/bin/python"
+}
