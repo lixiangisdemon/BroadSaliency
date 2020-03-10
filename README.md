@@ -20,10 +20,10 @@
 配置完环境后进入BroadSaliency目录下 
 安装输入
 
-        ./install.sh
+    ./install.sh
 卸载输入
 
-        ./uninstall.sh
+    ./uninstall.sh
 ## 运行
 本项目的运行都写在python文件里
  
